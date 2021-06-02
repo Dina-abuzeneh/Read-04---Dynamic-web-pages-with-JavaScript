@@ -53,3 +53,7 @@ JavaScript frameworks are an essential part of modern front-end web development,
 
 ## Closures
 - [x] A closure is the combination of a function and the lexical environment within which that function was declared.
+:smiley: 
+
+:smiley:
+
